@@ -1,0 +1,22 @@
+/**
+ * Copyright (c) 2022 Aiden Baker
+ *
+ * This software is released under the MIT License.
+ * https://opensource.org/licenses/MIT
+ */
+body{
+    background-color: black;
+}
+.title{
+    color: white;
+    font-size: 100px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-top: 10%;
+}
+.textBox{
+    width: 50%;
+    margin: auto;
+    margin-top: 10%;
+    text-align: center;
+}
